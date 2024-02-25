@@ -7,7 +7,6 @@
                 <title>SVG</title>
             </head>
             <body>
-                <h4 id="author" title="GossJS" style="display:none">Шемелин Святослав</h4>
                 <xsl:apply-templates/>
             </body>
         </html>
